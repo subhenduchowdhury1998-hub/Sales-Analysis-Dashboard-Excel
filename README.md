@@ -21,6 +21,9 @@ This project delivers a comprehensive sales performance analysis using Microsoft
 2. Open it in Microsoft Excel.  
 3. Explore slicers, charts, and measures to interact with the dashboard.  
 
+## 📸 **Dashboard Preview**  
+![Dashboard Preview](Dashboard_Preview.png)
+
 ## 🧑‍💻 **Author**  
 **Subhendu Chowdhury**  
 Aspiring Data Analyst | Skilled in Power BI & Excel | Exploring SQL, DAX & Python  
