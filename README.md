@@ -17,12 +17,14 @@ This project delivers a comprehensive sales performance analysis using Microsoft
 - Dashboard design and storytelling with data  
 
 ## 🚀 **How to Use**  
-1. Download the `.xlsx` file.  
-2. Open it in Microsoft Excel.  
+1. Download the files from the [Raw_Sales_Data](Raw_Sales_Data/) folder.  
+2. Open [Fnp_Data_and_Dashboard.xlsx](Fnp_Data_and_Dashboard.xlsx) in Microsoft Excel.  
 3. Explore slicers, charts, and measures to interact with the dashboard.  
 
 ## 📸 **Dashboard Preview**  
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](Dashboard_Preview.png)  
+Or click to view: [Dashboard_Preview.png](Dashboard_Preview.png)
+
 
 ## 🧑‍💻 **Author**  
 **Subhendu Chowdhury**  
